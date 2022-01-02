@@ -1,0 +1,23 @@
+
+ age is 10 and name is B
+ age is 20 and name is c
+ age is 21 and name is b
+ age is 20 and name is g
+ age is 21 and name is s
+ age is 20 and name is d
+ age is 12 and name is x
+ age is 21 and name is h
+ age is 12 and name is d
+ age is 12 and name is d
+ age is 12 and name is d
+ age is 19 and name is SUDIKSHYA
+ age is 19 and name is BADAL
+ age is 17 and name is BARSHA
+ age is 19 and name is RABIN
+ age is 19 and name is AAKAS
+ age is 20 and name is BASANT
+ age is 19 and name is BIPLOV
+ age is 19 and name is SANDESH
+ age is 20 and name is SANJAY
+ age is 20 and name is POSHAL
+ age is 20 and name is BABLI
